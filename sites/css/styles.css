@@ -56,7 +56,6 @@ body {
  
 }
 .header{
-  text-align: center;
   font-weight: 600px;
   padding: 0px 0px 35px 0px;
 }
@@ -67,13 +66,13 @@ body {
 
 }
 .sub-header {
-  text-align: center;
+  
   font-size: 1.7em
 }
 
 .description{
   margin: 15px;
-  
+
 }
 
 /* END HOME PAGE */
